@@ -1,0 +1,4 @@
+Grid Encryption:
+- Grid Size (in bytes); max = 256; Only exponents of 2
+- Max Depth (Divisions)
+- Little Endian/Big Endian

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "File Compression", "File Compression\File Compression.vcxproj", "{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Debug|x64.ActiveCfg = Debug|x64
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Debug|x64.Build.0 = Debug|x64
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Debug|x86.Build.0 = Debug|Win32
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Release|x64.ActiveCfg = Release|x64
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Release|x64.Build.0 = Release|x64
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Release|x86.ActiveCfg = Release|Win32
+		{8C486D1D-EE4E-45B5-A3F3-EC6B3D418E45}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F854EA0-F7FB-475C-A24E-8C38D7014DE1}
+	EndGlobalSection
+EndGlobal
